@@ -1,9 +1,5 @@
-Get the van & Go!
 run
 something
-more stuff
-defrost
-wet
 scratch itch
 hopefully team up
 things
@@ -12,3 +8,5 @@ Master Python
 Great Python Master
 Eat a whole cake
 Belts
+figure something out
+horsey
